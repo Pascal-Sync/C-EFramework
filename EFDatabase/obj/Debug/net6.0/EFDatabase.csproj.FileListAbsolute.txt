@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\csharp_projects\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\csharp_projects\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\csharp_projects\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\csharp_projects\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.AssemblyInfo.cs
+C:\Users\Admin\Documents\csharp_projects\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.csproj.CoreCompileInputs.cache
+C:\Users\v-mnjambi\source\repos\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.csproj.AssemblyReference.cache
+C:\Users\v-mnjambi\source\repos\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-mnjambi\source\repos\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.AssemblyInfoInputs.cache
+C:\Users\v-mnjambi\source\repos\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.AssemblyInfo.cs
+C:\Users\v-mnjambi\source\repos\EFDatabase\EFDatabase\obj\Debug\net6.0\EFDatabase.csproj.CoreCompileInputs.cache
